@@ -1,3 +1,4 @@
 tb.sv 
 memory.sv 
+../src/register_file.sv
 ../src/processor.sv
