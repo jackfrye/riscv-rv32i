@@ -1,7 +1,7 @@
 
-module #(
+module adder #(
   parameter integer WIDTH = 32  
-) adder
+)
 (
   input              clk ,
   input              rst ,
